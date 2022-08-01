@@ -1,0 +1,1 @@
+![image-20220801111052896](kubernetesnote.assets/image-20220801111052896.png)
