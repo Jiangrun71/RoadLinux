@@ -7,9 +7,8 @@ mixture = []
 while True:
     spels = input(prompt)
     if spels == 'quit':
-        print(f"您的配料如下：{mixture}请让我们开始制作大餐吧")
+        print(f"您的配料如下：{mixture}\n请让我们开始制作大餐吧")
         break
-
     else:
         mixture.append(spels)
         print(f"{spels.title()} 已添加，请继续输入")
