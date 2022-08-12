@@ -9,3 +9,9 @@ alien2['color'] = 'red'
 alien2['shape'] = 'cube'
 print(alien2)
 
+#用户输入和while循环
+age = int(input("请输入您的年纪："))
+print(f"您的年纪是：%s" % age)
+name1 = input("请输入您的名字：")
+print(f"\nHello,{name1}!")
+

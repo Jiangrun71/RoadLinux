@@ -109,5 +109,3 @@ for user in users:
     else:
         print(f"hello %s " % user.title(),"please Login again!")
 
-
-
