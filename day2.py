@@ -28,4 +28,4 @@ while i <= 100:
     i += 1
 print("和为：%d" % sum1)
 
-
+print(f"I will insist all my idea")
