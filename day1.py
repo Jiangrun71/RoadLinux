@@ -102,3 +102,12 @@ print(subjects)
 print("chao`s subject are :")
 print(chao_subje)
 
+users = ['admin','normal','master','superior']
+for user in users:
+    if user =='admin':
+        print(f"Hello,Admin, Welcome to the new python world!")
+    else:
+        print(f"hello %s " % user.title(),"please Login again!")
+
+
+
