@@ -5,6 +5,7 @@ while True:
     city = input(prompt)
     if city == 'quit':
         print(f"你喜欢的城市如下：{citys}")
+        print("this is a new grammar")
         break
     else:
         citys.append(city)
