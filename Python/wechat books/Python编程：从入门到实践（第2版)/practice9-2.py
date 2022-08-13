@@ -6,5 +6,7 @@ class Cars:
 
     def decribe_car(self):
         print(f"the car {self.brand} {self.model} is made in year {self.year}")
-mycar = Cars('Audi','XT6','2022')
+
+
+mycar = Cars('Audi', 'XT6', '2022')
 mycar.decribe_car()
